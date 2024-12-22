@@ -57,7 +57,7 @@ The model architecture consists of:
 ### **⚙️ Installation**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Sign-Language-Detection-LSTM.git
+   git clone https://github.com/dev28616/Sign-Language-Detection-LSTM.git
    cd Sign-Language-Detection-LSTM
    ```  
 
